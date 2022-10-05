@@ -8,7 +8,7 @@
 
 
 
-### Технические наввыки:
+### Технические навыки:
 - Языки программирования:   Swift <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" width="20" height="20">
 - API/Frameworks:           GCD, SwiftyJSON, Alamofire
 - Databases:                CoreData, Realm, Firebase
