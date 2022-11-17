@@ -10,10 +10,10 @@
 
 ### Технические навыки:
 - Языки программирования:   Swift <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" width="20" height="20">
-- API/Frameworks:           GCD, SwiftyJSON, Alamofire
-- Databases:                CoreData, Realm, Firebase
-- Архитектуры:              MVC, MVVM
-- Технологии:               Autolayout, Git, SOLID, REST API
+- API/Frameworks:           UIKit, GCD, URLSession, Alamofire, Async-Await
+- Databases:                UserDefaults, Firebase, Realm
+- Архитектуры:              MVC, MVP, MVVM
+- Технологии:               Autolayout,SnapKit Git, SOLID
 - Менеджеры зависимости:    SPM, CocoaPods
 
 
